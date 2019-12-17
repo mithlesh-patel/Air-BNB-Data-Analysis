@@ -17,6 +17,9 @@ https://www.kaggle.com/airbnb/boston
 Below python libraries have been used to perform analysis
 
 pandas to read and transform data.
+
 numpy to maintain data in numpy arrays
+
 matplotlib  and seaborn for data visualisation
+
 %matplotlib inline to render visalisation in ipython notebook itself.
