@@ -4,6 +4,7 @@ Analysing public data from AirBnB Boston and Seattle using python
 Datasets available at below locations,
 
 https://www.kaggle.com/airbnb/seattle/data
+
 https://www.kaggle.com/airbnb/boston
 
 3 files per city as follows
