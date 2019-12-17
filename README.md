@@ -24,3 +24,6 @@ numpy to maintain data in numpy arrays
 matplotlib  and seaborn for data visualisation
 
 %matplotlib inline to render visalisation in ipython notebook itself.
+
+Have a look to my blog to deep dive,
+https://medium.com/@mithleshpatel/read-this-before-packing-bags-to-boston-or-seattle-bc5db4055911
